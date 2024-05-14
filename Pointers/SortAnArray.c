@@ -11,22 +11,22 @@ int main(void)
     }
 
 
-    // //Take Numbers
-    // printf("Put your numbers from 1 to 5: ");
-    // for (int i = 0; i < 5; i++)
-    // {
-    //     scanf("%d", &Arr[i]);
-    // }
-    // printf("\n");
+    //Take Numbers
+    printf("Put your numbers from 1 to 5: ");
+    for (int i = 0; i < 5; i++)
+    {
+        scanf("%d", &Arr[i]);
+    }
+    printf("\n");
     
 
     // Printing Before Sorting Values
-    // printf("Your numbers is: \n");
-    // for (int i = 0; i < 5; i++)
-    // {
-    //     printf("%d ", *ptrArr[i]);
-    // }
-    // printf("\n");
+    printf("Your numbers is: \n");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("%d ", *ptrArr[i]);
+    }
+    printf("\n");
 
 
     // Sort an Array:
